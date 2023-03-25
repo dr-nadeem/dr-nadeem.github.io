@@ -13,15 +13,6 @@ Internship work at [https://www.qualcomm.com/ Qualcomm].
 ~~~
 
 ~~~
-{}{img_left}{./Figures/ScanObjectNN.png}{alt text}{510px}{}{}
-*PU-Dense: Sparse Tensor-based Point Cloud Geometry Upsampling* *[https://aniqueakhtar.github.io/publications/PU-Dense (Project Page)]* [https://github.com/aniqueakhtar/PointCloudUpsampling (GitHub)]\n\n
-Internship work at [https://www.qualcomm.com/ Qualcomm].
-- A sparse convolution-based point cloud upsampling solution that works on synthetic mesh-based dataset, sparse LiDAR-based point clouds, as well as dense high-resolution photo-realistic point clouds.
-- The current state-of-the-art in point cloud upsampling.
-
-~~~
-
-~~~
 {}{img_left}{./Figures/Interpolation.png}{alt text}{510px}{}{}
 *Dynamic Point Cloud Interpolation.* [./Docs/Akhtar.ICASSP.2022.pdf (pdf)]\n\n
 Internship work at [https://www.qualcomm.com/ Qualcomm].
@@ -82,60 +73,79 @@ Summer Internship at [https://www.here.com/en HERE Technologies].
 ~~~
 
 ~~~
-{}{img_left}{./Figures/LiDAR.gif}{alt text}{500px}{300px}{}
-*Realtime 3D Point Cloud Communication.*\n\n
-- Joint source-channel coding for robustness to different channel conditions. [./Docs/Low_latency_scalable_point_cloud_communication.pdf (pdf)]
-- Adaptive Modulation and Coding schemes for point cloud broadcasting.
-- Adaptive Random Network Coding (ARNC) for scalable point cloud multicasting. [./Docs/V2I.pdf (pdf)]
-- Low latency support for V2V as well as V2I communication
-
-(Outdoor LiDAR data from Hesai shown on the left.)
-~~~
-
-~~~
-{}{img_left}{./Figures/Lidar-car.gif}{alt text}{500px}{300px}{}
-*Mobile Edge Point Cloud Computing.*
-- Registering infrastructure based and vehicle based point cloud submaps into one big point cloud.
-- Differentiating the static background from the dynamic live map.
-
-(Google car collecting LiDAR data shown on the left.)
+{}{img_left}{./Figures/pointcloud_compression.png}{alt text}{500px}{300px}{}
+*Service-Oriented Robotic Simulation Implementation.*\n\n 
+*(August 2008 - February 2010) - ENSIBS + Lab VALORIA UBS FRANCE)*\n
+- Robotics Studio allows developers to develop robotic applications which manage the sensors, actuators, and
+the behavior of robots in their environment. The same application code is used both in the simulated robots
+in a simulation environment and in real robots in real world environment. It has a Service-Oriented Architecture
+(SOA), with services being designed and developed by Visual Programming Language (VPL) and direct
+Visual C# programming.\n 
+*Project description:*\n 
+- This project develops robotic simulation agents in Robotics Studio.
+- The application developed consists of the core specifications, these core specifications were developed by
+following the Gaia multi-agent method.
+- There were several extensions developed of these specifications.
+- It manages the transport of goods between multiple warehouses in a closed environment. 
+- The entities are mobile carrier agents, the loader/un-loader agents that load/un-load goods at warehouses.
+- The environment consists of the route (with its topology) and the goods to transport.
+- The mission consists of transporting all or a part of goods from one source (warehouse) towards a destination (warehouse).
+- The carrier agents discover the route topology and must construct and follow a route to reach their destination.
+- The project extensions implement the simulation scenarios, and then thus validate the specifications.
+The extensions are:
+-- The scalability of the number of carrier agents. We started from a static solution where we knew the number
+of carrier agents at start, to a dynamic solution which allows the dynamic addition and removal of carrier agents
+either with the help of a supervisor (HMI), or with the help of a service that allows the adaptation of the
+number of carrier agents.
+-- The evolution of the route. We passed from a solution where the topology of the route is known at the
+beginning to a solution where the topology of the route evolves dynamically with the help of addition/deletion
+of discrete portions of route with the help of a supervisor service.
+-- The evolution of the number of the warehouses and mission. We pass from a solution where the number of
+warehouses are static (i.e. known in advance) and the mission consists of transporting a part or all the goods
+from one warehouse to another warehouse, to a solution which allows to introduce new warehouses
+(placed at different portions of route via a supervisor service) and modification of carrier agent missions
+to assure an equilibrium between the warehouses (i.e. our goal is the same quantity of goods in each warehouse)
+-- The proposition of a strategy for the resolution of collisions between carrier agents.
 ~~~
 
 ~~~
 {}{img_left}{./Figures/pointcloud_compression.png}{alt text}{500px}{300px}{}
-*Non-Deep Learning-based 3D Point Cloud Geometry Compression.*\n\n
-- Binary Tree embedded Quad Tree (BTQT) source encoding. [./Docs/Low_latency_scalable_point_cloud_communication.pdf (pdf)] & [./Docs/V2I.pdf (pdf)]
-- Lossless point cloud geometry compression.
-- Error Resilient and Scalable point cloud source coding that is layered for different quality of service requirements.
+*Approach for the formal specification and verification of multi-agent robotic systems.*\n\n 
+*(PhD Project - July 2007 - September 2010 - Lab VALORIA UBS FRANCE)*\n
+. We have proposed a development approach based on a combination of methods and techniques that allow 
+for formal verification and evaluation during specification definition and that is also flexible.
+. We have analyzed the development process of a robotic multi-agent system after classifying it in the
+major phases of /requirement specifications/, /verification specifications/, /architecture specifications/, 
+and /implementation/.
 ~~~
 
 ~~~
 {}{img_left}{./Figures/deep_learning.jpg}{alt text}{500px}{250px}{}
-*Deep Learning (Older Work)*\n\n
-- Deep Super Resolution Networks for SIFT point repeatability.\n
--- Novel technique to super-resolve low resolution images into high resolution images while maintaining SIFT key points features.
-- Human Activity Recognition using Wearable Sensors by Deep Convolutional Neural Networks.\n
--- Designed a Convolutional Neural Network for Human Activity Detection using accelerometers and gyroscopes sensors from your cell-phone or wearable device. The results achieve 95% classification accuracy over 10 classes.
-- Market Trend Prediction for Cryptocurrency using Machine Learning.\n
--- Using traditional financial Technical Analysis (TA) coupled with deep learning techniques to predict Bitcoin price.
-- Machine learning applications in Wireless Communication and Network Science.\n
+*An Architecture for Secure Video Streaming in Multicast environment* \n\n 
+*(The Islamia University of Bahawalpur - 2012)*\n 
 ~~~
 
 ~~~
 {}{img_left}{./Figures/5G.png}{alt text}{500px}{350px}{}
-*5G and Beyond.*\n\n
-- Resource allocation schemes for 5G heterogenous multi-numerology network. [./Docs/Resource_allocation.pdf (pdf)]
-- Flexible waveform and numerology design for future cellular systems.
-- Adaptive CP size optimization in OFDM waveform.
+*Design and development of a formal multi-agent information management system.*\n\n
+*HEC Grant 0.5 Million - Duration 10 months - (November - 2012)* \n
+. Application of formal methods for the development of multi-agent based information management system
+. Design and development of a formal architecture for the Information management system
+. Implementation of this Information management system by using a multi-agent framework
+. The use of free open source multi-agent platform and softwares.
 ~~~
 
 ~~~
-{}{img_left}{./Figures/mmwave.jpg}{alt text}{500px}{300px}{}
-*Directional mmWave Communication.*\n\n
-- Directional MAC Protocol for IEEE 802.11ad WLANs. [./Docs/Directional_MAC_Protocol.pdf (pdf)]  *([https://aniqueakhtar.github.io/publications/MAC/DMBS.html PROJECT LINK])*
-- Efficient Network Level Beamforming Training for IEEE 802.11ad WLANs. [./Docs/Beamforming_Training.pdf (pdf)]
-- Energy Efficient MAC Protocol with Localization scheme for Wireless Sensor Networks using Directional Antennas. [./Docs/Localization_scheme.pdf (pdf draft)]
-- Multi-hop network neighbor discovery and beamforming using directional antennas in 802.11ad WLANs. [./Docs/doc4.pdf (pdf draft)]
-- Optimization of link scheduling in directional wireless networks using Heuristic methods. [./Docs/doc5.pdf (pdf draft)]
+{}{img_left}{./Figures/Luddo_3D.jpg}{alt text}{400px}{550px}{}
+*Luddo 3D - Design and development of 3D Ludo gameLuddo 3D - Design and development of 3D Ludo game.*\n\n
+*(August - 2013)* \n
+- Luddo is very popular game in Pakistan. Internationally and nationally people play this game for entertainment.
+Usually a square board, dice and some tokens are used in order to play this game.
+- We proposed an electronic version of the game in order to modernize the experience of playing Luddo game
+in computers and smart phones. Four, three, or two players can play this game at a time.
+- We have proposed a single player gaming experience also; developed the electronic game and added
+functionality of playing game with the computer player;
+- Moreover we have developed a Luddo game in a 3-Dimensional graphic environment using a 3D-graphics engine.
+- We are the first team to developed this 3D-Luddo game across the world.
 ~~~
 

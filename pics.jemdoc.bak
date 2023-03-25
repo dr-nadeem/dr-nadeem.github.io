@@ -1,0 +1,70 @@
+# jemdoc: menu{MENU}{menu.html}
+\n 
+
+= Gallery
+
+~~~
+{}{img_left}{./Figures/Inter-prediction.png}{alt text}{510px}{}{}
+*Inter-prediction in Point Cloud Compression with Sparse Convolutional Networks* \n\n
+~~~
+
+~~~
+{}{img_left}{./Figures/Interpolation.png}{alt text}{510px}{}{}
+*Dynamic Point Cloud Interpolation.* [./Docs/Akhtar.ICASSP.2022.pdf (pdf)]\n\n
+~~~
+
+~~~
+{}{img_left}{./Figures/Artifact_removal.png}{alt text}{510px}{}{}
+*Video-based Point Cloud Compression (V-PCC) Artifact Removal.* [https://arxiv.org/abs/2107.14179 (pdf)]\n\n
+~~~
+
+~~~
+{}{img_left}{./Figures/Geometry_prediction.gif}{alt text}{510px}{}{}
+*Point Cloud Geometry Prediction Across Spatial Scale.* [./Docs/Geometry_prediction.pdf (pdf)] \n\n
+~~~
+
+~~~
+{}{img_left}{./Figures/2dsegmentation.gif}{alt text}{500px}{340px}{}
+*2D Penoptic Segmentation on street level imagery (SLI) from [https://www.here.com/en HERE] True Drives.*\n\n
+~~~
+
+~~~
+{}{img_left}{./Figures/denoising.gif}{alt text}{500px}{440px}{}
+*Point Cloud Denoising.*\n\n
+~~~
+
+~~~
+{}{img_left}{./Figures/pointcloud_2.jpg}{alt text}{500px}{300px}{}
+*3D Semantic Segmentation on [https://www.here.com/en HERE] True LiDAR Data.*\n\n
+~~~
+
+~~~
+{}{img_left}{./Figures/LiDAR.gif}{alt text}{500px}{300px}{}
+*Realtime 3D Point Cloud Communication.*\n\n
+~~~
+
+~~~
+{}{img_left}{./Figures/pointcloud_compression.png}{alt text}{500px}{300px}{}
+*Service-Oriented Robotic Simulation Implementation.*\n\n 
+~~~
+
+~~~
+{}{img_left}{./Figures/pointcloud_compression.png}{alt text}{500px}{300px}{}
+*Approach for the formal specification and verification of multi-agent robotic systems.*\n\n 
+~~~
+
+~~~
+{}{img_left}{./Figures/deep_learning.jpg}{alt text}{500px}{250px}{}
+*An Architecture for Secure Video Streaming in Multicast environment* \n\n 
+~~~
+
+~~~
+{}{img_left}{./Figures/5G.png}{alt text}{500px}{350px}{}
+*Design and development of a formal multi-agent information management system.*\n\n
+~~~
+
+~~~
+{}{img_left}{./Figures/Luddo_3D.jpg}{alt text}{350px}{500px}{}
+*Luddo 3D - Design and development of 3D Ludo gameLuddo 3D - Design and development of 3D Ludo game.*\n\n
+~~~
+
