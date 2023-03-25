@@ -4,7 +4,7 @@
 = Dr. Nadeem Akhtar      
 
 ~~~
-{}{img_left}{./Figures/pic_id.jpeg}{Photo}{350px}{350px}{}
+{}{img_left}{./Figures/pic_id.jpeg}{Photo}{310px}{310px}{}
 
 *Dr. Nadeem Akhtar*\n
 Chairperson / Associate Professor \n
@@ -13,19 +13,22 @@ Baghdad-ul-Jadeed Campus \n
 The Islamia University of Bahawalpur - Punjab, PAKISTAN \n
 
 Email: nadeem DOT akhtar AT iub DOT edu DOT pk \n 
+~~~
 
-[https://dr-nadeem.github.io/ Home Page] \n
-[https://www.linkedin.com/in/dr-nadeem-akhtar-9142717/ Linkedin] \n 
-[https://www.iub.edu.pk/author/Nadeem.Akhtar IUB Page]\n
-[https://scholar.google.com.pk/citations?user=suMk_xwAAAAJ&hl=en Google Scholar link] \n
+~~~
+{}{raw}
+<p><a href="https://dr-nadeem.github.io/" target="_blank" rel="noopener noreferrer">My Home Page</a> ====
+<a href="https://www.linkedin.com/in/dr-nadeem-akhtar-9142717/" target="_blank" rel="noopener noreferrer">Linkedin</a> ====
+<a href="https://www.iub.edu.pk/author/Nadeem.Akhtar" target="_blank" rel="noopener noreferrer">IUB Page</a> ====
+<a href="https://scholar.google.com.pk/citations?user=suMk_xwAAAAJ&hl=en" target="_blank" rel="noopener noreferrer">Google Scholar link</a></p>
+~~~
+
+~~~
 #[./Docs/Resume_Nadeem_Akhtar.pdf Resume (last updated: March 2023)]\n
-\n
 Resume (on request)
-
 ~~~
 
 ~~~
- 
 I am working as *Chairperson* and *Associate Professor* Department of Software Engineering,
 Faculty of Computing, The Islamia University of Bahawalpur (IUB), Pakistan. 
 I have 20 years of experience in teaching, research, and higher education institution management.
@@ -51,7 +54,6 @@ Two PhD and 90 MS students have completed their thesis under my supervision.
 I have 50 research articles published in reputed International Journals and 02 research articles
 published in Internationally reputed Conferences.
 \n
-
 ~~~
 
 
