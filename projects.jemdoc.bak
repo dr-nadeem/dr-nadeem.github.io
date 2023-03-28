@@ -50,7 +50,7 @@ Summer Internship at [https://www.here.com/en HERE Technologies].
 ~~~
 
 ~~~
-{}{img_left}{./figures/denoising.gif}{alt text}{500px}{440px}{}
+{}{img_left}{./Figures/denoising.gif}{alt text}{500px}{440px}{}
 *Point Cloud Denoising.*\n\n
 Point clouds obtained from 3D scanners or by image-based reconstruction techniques are often corrupted with a significant amount of non-negligible noise. 
 - We propose a two-stage deep neural network that takes in 3D point cloud data and outputs a denoised point cloud.
@@ -62,7 +62,7 @@ Point clouds obtained from 3D scanners or by image-based reconstruction techniqu
 ~~~
 
 ~~~
-{}{img_left}{./figures/pointcloud_2.jpg}{alt text}{500px}{300px}{}
+{}{img_left}{./Figures/pointcloud_2.jpg}{alt text}{500px}{300px}{}
 *3D Semantic Segmentation on [https://www.here.com/en HERE] True LiDAR Data.*\n\n
 Summer Internship at [https://www.here.com/en HERE Technologies].
 - Annotation of large scale outdoor LiDAR point cloud data.
@@ -73,7 +73,7 @@ Summer Internship at [https://www.here.com/en HERE Technologies].
 ~~~
 
 ~~~
-{}{img_left}{./figures/pointcloud_compression.png}{alt text}{500px}{300px}{}
+{}{img_left}{./Figures/pointcloud_compression.png}{alt text}{500px}{300px}{}
 *Service-Oriented Robotic Simulation Implementation.*\n\n 
 *(August 2008 - February 2010) - ENSIBS + Lab VALORIA UBS FRANCE)*\n
 - Robotics Studio allows developers to develop robotic applications which manage the sensors, actuators, and
@@ -109,7 +109,7 @@ to assure an equilibrium between the warehouses (i.e. our goal is the same quant
 ~~~
 
 ~~~
-{}{img_left}{./figures/pointcloud_compression.png}{alt text}{500px}{300px}{}
+{}{img_left}{./Figures/pointcloud_compression.png}{alt text}{500px}{300px}{}
 *Approach for the formal specification and verification of multi-agent robotic systems.*\n\n 
 *(PhD Project - July 2007 - September 2010 - Lab VALORIA UBS FRANCE)*\n
 . We have proposed a development approach based on a combination of methods and techniques that allow 
@@ -120,13 +120,13 @@ and /implementation/.
 ~~~
 
 ~~~
-{}{img_left}{./figures/deep_learning.jpg}{alt text}{500px}{250px}{}
+{}{img_left}{./Figures/deep_learning.jpg}{alt text}{500px}{250px}{}
 *An Architecture for Secure Video Streaming in Multicast environment* \n\n 
 *(The Islamia University of Bahawalpur - 2012)*\n 
 ~~~
 
 ~~~
-{}{img_left}{./figures/5G.png}{alt text}{500px}{350px}{}
+{}{img_left}{./Figures/5G.png}{alt text}{500px}{350px}{}
 *Design and development of a formal multi-agent information management system.*\n\n
 *HEC Grant 0.5 Million - Duration 10 months - (November - 2012)* \n
 . Application of formal methods for the development of multi-agent based information management system
@@ -136,7 +136,7 @@ and /implementation/.
 ~~~
 
 ~~~
-{}{img_left}{./figures/Luddo_3D.jpg}{alt text}{400px}{450px}{}
+{}{img_left}{./Figures/Luddo_3D.jpg}{alt text}{400px}{550px}{}
 *Luddo 3D - Design and development of 3D Ludo gameLuddo 3D - Design and development of 3D Ludo game.*\n\n
 *(August - 2013)* \n
 - Luddo is very popular game in Pakistan. Internationally and nationally people play this game for entertainment.
