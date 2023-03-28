@@ -1,70 +1,273 @@
 # jemdoc: menu{MENU}{menu.html}
 \n 
 
-= Gallery
+~~~
+{}{raw}
+<!DOCTYPE html>
+<html> 
+  <head>
+    <meta charset="utf-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Image Gallery</title>
+    <link rel="title icon" type="image/png" href="images/camera-icon.png">
+    <link href="https://fonts.googleapis.com/css?family=Raleway" rel="stylesheet">
+    <link rel="stylesheet" type="text/css" href="style.css">
+  </head>
+  <body>
+    <div class="wrapper">
+      <header>
+        <h1>Image Gallery Project</h1>
+        <nav>
+          <a href="" id="menu-icon"></a> 
+          <ul>
+            <li><a href="#nature">Nature</a></li>
+            <li><a href="#wildlife">Wildlife</a></li>
+            <li><a href="#hikers">Hikers</a></li>
+          </ul>
+        </nav>
+      </header>
+      <!-- End Header -->
+      <section>
+        <a name="nature"></a>
+        <h2>Nature</h2>
+        <div class="container">
+          <a href="images/nature1.jpeg"><img id = "img1" src="images/nature1.jpeg" alt="nature1" ></a>
+          <a href="images/nature2.jpeg"><img id = "img2" src="images/nature2.jpeg" alt="nature2" ></a>
+          <a href="images/nature3.jpeg"><img id = "img3" src="images/nature3.jpeg" alt="nature3" ></a>
+          <a href="images/nature4.jpeg"><img id = "img4" src="images/nature4.jpeg" alt="nature4" ></a>
+          <a href="images/nature5.jpeg"><img id = "img5" src="images/nature5.jpeg" alt="nature5" ></a>
+          <a href="images/nature6.jpeg"><img id = "img6" src="images/nature6.jpeg" alt="nature6" ></a>
+        </div>
+      </section>
+      <!-- End of Nature Section -->
+      <section>
+          <a name="wildlife"></a>
+          <h2>Wildlife</h2>
+          <div class="container">
+              <a href="images/animal1.jpeg"><img id = "img7" src="images/animal1.jpeg" alt="animal1"></a>
+              <a href="images/animal2.jpeg"><img id = "img8" src="images/animal2.jpeg" alt="animal2"></a>
+              <a href="images/animal3.jpeg"><img id = "img9" src="images/animal3.jpeg" alt="animal3"></a>
+              <a href="images/animal4.jpeg"><img id = "img10" src="images/animal4.jpeg" alt="animal4"></a>
+              <a href="images/animal5.jpeg"><img id = "img11" src="images/animal5.jpeg" alt="animal5"></a>
+              <a href="images/animal6.jpeg"><img id = "img12" src="images/animal6.jpeg" alt="animal6"></a>
+          </div>
+      </section>
+      <!-- End of Wildlife Section -->
+      <section>
+          <a name="hikers"></a>
+          <h2>Hikers</h2>
+          <div class="container">
+              <a href="images/backpacker1.jpeg"><img id = "img13" src="images/backpacker1.jpeg" alt="backpacker1"></a>
+              <a href="images/backpacker2.jpeg"><img id = "img14" src="images/backpacker2.jpeg" alt="backpacker2"></a>
+              <a href="images/backpacker3.jpeg"><img id = "img15" src="images/backpacker3.jpeg" alt="backpacker3"></a>
+              <a href="images/backpacker4.jpeg"><img id = "img16" src="images/backpacker4.jpeg" alt="backpacker4"></a>
+              <a href="images/backpacker5.jpeg"><img id = "img17" src="images/backpacker5.jpeg" alt="backpacker5"></a>
+              <a href="images/backpacker6.jpeg"><img id = "img18" src="images/backpacker6.jpeg" alt="backpacker6"></a>
+          </div>
+      </section>
+      <div id="myModal" class="modal">
+        <span class="close">&times;</span>
+        <img class="modal-content" id="img01">
+        <div id="caption"></div>
+      </div>
+      <!-- End of Hikers Section -->
+      <button onclick="goToTop()" id="topBtn" title="Go to top of page">Top of Page</button>
+      <footer class="footer">
+        <p>
+          Copyright &copy; 2023, Muhammad Safeer Hussain
+        </p>
+      </footer>
+    </div>
+    <script>
+      // Get the modal
+      var modal = document.getElementById("myModal");
+
+      // Get the image and insert it inside the modal - use its "alt" text as a caption
+      var img = document.getElementById("img1");
+      var modalImg = document.getElementById("img01");
+      var captionText = document.getElementById("caption");
+      img.onmousedown = function(){
+      modal.style.display = "block";
+      modalImg.src = this.src;
+      captionText.innerHTML = this.alt;
+      }
+      // Get the image and insert it inside the modal - use its "alt" text as a caption
+      var img = document.getElementById("img2");
+      var modalImg = document.getElementById("img01");
+      var captionText = document.getElementById("caption");
+      img.onmousedown = function(){
+      modal.style.display = "block";
+      modalImg.src = this.src;
+      captionText.innerHTML = this.alt;
+      }
+      // Get the image and insert it inside the modal - use its "alt" text as a caption
+      var img = document.getElementById("img3");
+      var modalImg = document.getElementById("img01");
+      var captionText = document.getElementById("caption");
+      img.onmousedown = function(){
+      modal.style.display = "block";
+      modalImg.src = this.src;
+      captionText.innerHTML = this.alt;
+      }
+      // Get the image and insert it inside the modal - use its "alt" text as a caption
+      var img = document.getElementById("img4");
+      var modalImg = document.getElementById("img01");
+      var captionText = document.getElementById("caption");
+      img.onmousedown = function(){
+      modal.style.display = "block";
+      modalImg.src = this.src;
+      captionText.innerHTML = this.alt;
+      }
+      // Get the image and insert it inside the modal - use its "alt" text as a caption
+      var img = document.getElementById("img5");
+      var modalImg = document.getElementById("img01");
+      var captionText = document.getElementById("caption");
+      img.onmousedown = function(){
+      modal.style.display = "block";
+      modalImg.src = this.src;
+      captionText.innerHTML = this.alt;
+      }
+      // Get the image and insert it inside the modal - use its "alt" text as a caption
+      var img = document.getElementById("img6");
+      var modalImg = document.getElementById("img01");
+      var captionText = document.getElementById("caption");
+      img.onmousedown = function(){
+      modal.style.display = "block";
+      modalImg.src = this.src;
+      captionText.innerHTML = this.alt;
+      }
+      // Get the image and insert it inside the modal - use its "alt" text as a caption
+      var img = document.getElementById("img7");
+      var modalImg = document.getElementById("img01");
+      var captionText = document.getElementById("caption");
+      img.onmousedown = function(){
+      modal.style.display = "block";
+      modalImg.src = this.src;
+      captionText.innerHTML = this.alt;
+      }
+      // Get the image and insert it inside the modal - use its "alt" text as a caption
+      var img = document.getElementById("img8");
+      var modalImg = document.getElementById("img01");
+      var captionText = document.getElementById("caption");
+      img.onmousedown = function(){
+      modal.style.display = "block";
+      modalImg.src = this.src;
+      captionText.innerHTML = this.alt;
+      }
+      // Get the image and insert it inside the modal - use its "alt" text as a caption
+      var img = document.getElementById("img9");
+      var modalImg = document.getElementById("img01");
+      var captionText = document.getElementById("caption");
+      img.onmousedown = function(){
+      modal.style.display = "block";
+      modalImg.src = this.src;
+      captionText.innerHTML = this.alt;
+      }
+      // Get the image and insert it inside the modal - use its "alt" text as a caption
+      var img = document.getElementById("img10");
+      var modalImg = document.getElementById("img01");
+      var captionText = document.getElementById("caption");
+      img.onmousedown = function(){
+      modal.style.display = "block";
+      modalImg.src = this.src;
+      captionText.innerHTML = this.alt;
+      }
+      // Get the image and insert it inside the modal - use its "alt" text as a caption
+      var img = document.getElementById("img11");
+      var modalImg = document.getElementById("img01");
+      var captionText = document.getElementById("caption");
+      img.onmousedown = function(){
+      modal.style.display = "block";
+      modalImg.src = this.src;
+      captionText.innerHTML = this.alt;
+      }
+      // Get the image and insert it inside the modal - use its "alt" text as a caption
+      var img = document.getElementById("img12");
+      var modalImg = document.getElementById("img01");
+      var captionText = document.getElementById("caption");
+      img.onmousedown = function(){
+      modal.style.display = "block";
+      modalImg.src = this.src;
+      captionText.innerHTML = this.alt;
+      }
+      // Get the image and insert it inside the modal - use its "alt" text as a caption
+      var img = document.getElementById("img13");
+      var modalImg = document.getElementById("img01");
+      var captionText = document.getElementById("caption");
+      img.onmousedown = function(){
+      modal.style.display = "block";
+      modalImg.src = this.src;
+      captionText.innerHTML = this.alt;
+      }
+      // Get the image and insert it inside the modal - use its "alt" text as a caption
+      var img = document.getElementById("img14");
+      var modalImg = document.getElementById("img01");
+      var captionText = document.getElementById("caption");
+      img.onmousedown = function(){
+      modal.style.display = "block";
+      modalImg.src = this.src;
+      captionText.innerHTML = this.alt;
+      }
+	  // Get the image and insert it inside the modal - use its "alt" text as a caption
+	  var img = document.getElementById("img15");
+      var modalImg = document.getElementById("img01");
+      var captionText = document.getElementById("caption");
+      img.onmousedown = function(){
+      modal.style.display = "block";
+      modalImg.src = this.src;
+      captionText.innerHTML = this.alt;
+      }
+      // Get the image and insert it inside the modal - use its "alt" text as a caption
+      var img = document.getElementById("img16");
+      var modalImg = document.getElementById("img01");
+      var captionText = document.getElementById("caption");
+      img.onmousedown = function(){
+      modal.style.display = "block";
+      modalImg.src = this.src;
+      captionText.innerHTML = this.alt;
+      }
+      // Get the image and insert it inside the modal - use its "alt" text as a caption
+      var img = document.getElementById("img17");
+      var modalImg = document.getElementById("img01");
+      var captionText = document.getElementById("caption");
+      img.onmousedown = function(){
+      modal.style.display = "block";
+      modalImg.src = this.src;
+      captionText.innerHTML = this.alt;
+      }
+      // Get the image and insert it inside the modal - use its "alt" text as a caption
+      var img = document.getElementById("img18");
+      var modalImg = document.getElementById("img01");
+      var captionText = document.getElementById("caption");
+      img.onmousedown = function(){
+      modal.style.display = "block";
+      modalImg.src = this.src;
+      captionText.innerHTML = this.alt;
+      }
+      // Get the <span> element that closes the modal
+      var span = document.getElementsByClassName("close")[0];
+      // When the user clicks on <span> (x), close the modal
+      span.onclick = function() { 
+       modal.style.display = "none";
+    }
+      // When the user scrolls down 20px from the top of the document, show the button
+    window.onscroll = function() {scrollFunction()};
+
+    function scrollFunction() {
+        if (document.body.scrollTop > 4 || document.documentElement.scrollTop > 4) {
+            document.getElementById("topBtn").style.display = "block";
+        } else {
+            document.getElementById("topBtn").style.display = "none";
+        }
+    }
+
+    // When the user clicks on the button, scroll to the top of the document
+    function goToTop() {
+        document.body.scrollTop = 0; // For Safari
+        document.documentElement.scrollTop = 0; // For Chrome, Firefox, IE and Opera
+    }
+    </script>
+  </body>
+</html>
 
 ~~~
-{}{img_left}{./Figures/Inter-prediction.png}{alt text}{510px}{}{}
-*Inter-prediction in Point Cloud Compression with Sparse Convolutional Networks* \n\n
-~~~
-
-~~~
-{}{img_left}{./Figures/Interpolation.png}{alt text}{510px}{}{}
-*Dynamic Point Cloud Interpolation.* [./Docs/Akhtar.ICASSP.2022.pdf (pdf)]\n\n
-~~~
-
-~~~
-{}{img_left}{./Figures/Artifact_removal.png}{alt text}{510px}{}{}
-*Video-based Point Cloud Compression (V-PCC) Artifact Removal.* [https://arxiv.org/abs/2107.14179 (pdf)]\n\n
-~~~
-
-~~~
-{}{img_left}{./Figures/Geometry_prediction.gif}{alt text}{510px}{}{}
-*Point Cloud Geometry Prediction Across Spatial Scale.* [./Docs/Geometry_prediction.pdf (pdf)] \n\n
-~~~
-
-~~~
-{}{img_left}{./Figures/2dsegmentation.gif}{alt text}{500px}{340px}{}
-*2D Penoptic Segmentation on street level imagery (SLI) from [https://www.here.com/en HERE] True Drives.*\n\n
-~~~
-
-~~~
-{}{img_left}{./Figures/denoising.gif}{alt text}{500px}{440px}{}
-*Point Cloud Denoising.*\n\n
-~~~
-
-~~~
-{}{img_left}{./Figures/pointcloud_2.jpg}{alt text}{500px}{300px}{}
-*3D Semantic Segmentation on [https://www.here.com/en HERE] True LiDAR Data.*\n\n
-~~~
-
-~~~
-{}{img_left}{./Figures/LiDAR.gif}{alt text}{500px}{300px}{}
-*Realtime 3D Point Cloud Communication.*\n\n
-~~~
-
-~~~
-{}{img_left}{./Figures/pointcloud_compression.png}{alt text}{500px}{300px}{}
-*Service-Oriented Robotic Simulation Implementation.*\n\n 
-~~~
-
-~~~
-{}{img_left}{./Figures/pointcloud_compression.png}{alt text}{500px}{300px}{}
-*Approach for the formal specification and verification of multi-agent robotic systems.*\n\n 
-~~~
-
-~~~
-{}{img_left}{./Figures/deep_learning.jpg}{alt text}{500px}{250px}{}
-*An Architecture for Secure Video Streaming in Multicast environment* \n\n 
-~~~
-
-~~~
-{}{img_left}{./Figures/5G.png}{alt text}{500px}{350px}{}
-*Design and development of a formal multi-agent information management system.*\n\n
-~~~
-
-~~~
-{}{img_left}{./Figures/Luddo_3D.jpg}{alt text}{350px}{500px}{}
-*Luddo 3D - Design and development of 3D Ludo gameLuddo 3D - Design and development of 3D Ludo game.*\n\n
-~~~
-

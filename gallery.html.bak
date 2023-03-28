@@ -1,0 +1,131 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>IUB Pictures Manager</title>
+    <link rel="stylesheet" href="style.css">
+</head>
+
+<body>
+ <!-- .........................................................Image 1.............................. -->
+
+    <center><h1>Gallery Images</h1></center>
+
+    <div class="card-1">
+       <a href="./Figures/Inter-prediction.png" target="_blank"> <div class="img-1">
+        <img src="img.jpg" alt="">
+      </div> </a> 
+        
+        </div>
+        
+        
+        <!-- ...........................Image 2.............................. -->
+        <div class="card-2">
+            <a href="./Figures/Interpolation.png" target="_blank"> <div class="img-1">
+                <img src="img_2.png" alt="">
+              </div> </a>  
+         
+          </div>
+        
+        
+          <!-- .........................Image 3.............................. -->
+        <div class="card-3">
+            <a href="./Figures/Artifact_removal.png" target="_blank"> <div class="img-1">
+                <img src="img_3.jpg" alt="">
+              </div> </a>  
+         
+          </div>
+        
+        
+        
+        
+          <!-- .........................Image 4.............................. -->
+        
+        <div class="card-4">
+            <a href="./Figures/Geometry_prediction.gif" target="_blank"> <div class="img-1">
+                <img src="img_4.jpg" alt="">
+              </div> </a>
+         
+          </div>
+          
+          
+          <!-- .........................Image 5.............................. -->
+          <div class="card-5">
+            <a href="./Figures/2dsegmentation.gif" target="_blank"> <div class="img-1">
+                <img src="img.jpg" alt="">
+              </div> </a> 
+          
+            </div>
+          
+          
+            <!-- .......................Image 6.............................. -->
+
+          <div class="card-6">
+            <a href="./Figures/denoising.gif" target="_blank"> <div class="img-1">
+                <img src="img_2.png" alt="">
+              </div> </a> 
+        
+            </div>
+
+
+            <!-- .......................Image 7.............................. -->
+
+		<div class="card-7">
+			<a href="./Figures/pointcloud_2.jpg" target="_blank"> <div class="img-1">
+            <img src="img.jpg" alt="">
+          </div> </a>
+        
+        </div>
+        
+        
+        <!-- .............................Image 8.............................. -->
+        <div class="card-8">
+            <a href="./Figures/pointcloud_compression.png" target="_blank"> <div class="img-1">
+                <img src="img_4.jpg" alt="">
+              </div> </a>
+         
+          </div>
+        
+        
+          <!-- ............................Image 9.............................. -->
+        <div class="card-9">
+            <a href="./Figures/deep_learning.jpg" target="_blank"> <div class="img-1">
+                <img src="img.jpg" alt="">
+              </div> </a>  
+         
+          </div>
+             
+        
+          <!-- ............................Image 10.............................. -->
+        
+        <div class="card-10">
+            <a href="./Figures/5G.png" target="_blank"> <div class="img-1">
+                <img src="img_2.png" alt="">
+              </div> </a> 
+         
+          </div>
+          
+          
+          <!-- .............................Image 11.............................. -->
+          <div class="card-11">
+            <a href="./Figures/Luddo_3D.jpg" target="_blank"> <div class="img-1">
+                <img src="img_3.jpg" alt="">
+              </div> </a> 
+          
+            </div>
+          
+          
+            <!-- ...........................Image 12.............................. -->
+
+          <div class="card-12">
+            <a href="img_4.jpg" target="_blank"> <div class="img-1">
+                <img src="img_4.jpg" alt="">
+              </div> </a>
+        
+            </div>
+
+       
+</body>
+</html>
