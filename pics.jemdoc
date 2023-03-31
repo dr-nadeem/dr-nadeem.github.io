@@ -32,18 +32,18 @@
         <a name="misc"></a>
         <h2>Misc</h2>
         <div class="container">
-          <a href="images/pic_1.jpg"><img id="misc1" src="images/pic_1.jpg" alt="misc1" ></a>
-          <a href="images/pic_2.png"><img id="misc2" src="images/pic_2.png" alt="misc2" ></a>
-          <a href="images/pic_3.png"><img id="misc3" src="images/pic_3.jpg" alt="misc3" ></a>
-          <a href="images/pic_4.png"><img id="misc4" src="images/pic_4.png" alt="misc4" ></a>
-          <a href="images/pic_5.jpg"><img id="misc5" src="images/pic_5.jpg" alt="misc5" ></a>
-          <a href="images/pic_6.jpg"><img id="misc6" src="images/pic_6.jpg" alt="misc6" ></a>
-		  <a href="images/pic_7.jpg"><img id="misc7" src="images/pic_7.jpg" alt="misc7" ></a>
-          <a href="images/pic_8.jpg"><img id="misc8" src="images/pic_8.jpg" alt="misc8" ></a>
-          <a href="images/pic_9.jpg"><img id="misc9" src="images/pic_9.jpg" alt="misc9" ></a>
-		  <a href="images/pic_10.jpg"><img id="misc10" src="images/pic_10.jpg" alt="misc10" ></a>
-          <a href="images/pic_11.jpg"><img id="misc11" src="images/pic_11.jpg" alt="misc11" ></a>
-          <a href="images/pic_12.jpg"><img id="misc12" src="images/pic_12.jpg" alt="misc12" ></a>
+          <a href="images/pic_1.jpg"><img id="misc1" src="images/pic_1.jpg" alt="Islamia University Bahawalpur" ></a>
+          <a href="images/pic_2.png"><img id="misc2" src="images/pic_2.jpg" alt="Islamia University Bahawalpur" ></a>
+          <a href="images/pic_3.png"><img id="misc3" src="images/pic_3.png" alt="University of South-Brittany, Bretagne - France" ></a>
+          <a href="images/pic_4.png"><img id="misc4" src="images/pic_4.png" alt="University of South-Brittany, Bretagne - France" ></a>
+          <a href="images/pic_5.jpg"><img id="misc5" src="images/pic_5.jpg" alt="Centre ville, Vannes - France" ></a>
+          <a href="images/pic_6.jpg"><img id="misc6" src="images/pic_6.jpg" alt="Centre ville, Vannes - France" ></a>
+		  <a href="images/pic_7.jpg"><img id="misc7" src="images/pic_7.jpg" alt="Place Marie, Centre ville, Vannes - France" ></a>
+          <a href="images/pic_8.jpg"><img id="misc8" src="images/pic_8.jpg" alt="Place Marie, Centre ville, Vannes - France" ></a>
+          <a href="images/pic_9.jpg"><img id="misc9" src="images/pic_9.jpg" alt="IUT - Montagne - Vannes - France" ></a>
+		  <a href="images/pic_10.jpg"><img id="misc10" src="images/pic_10.jpg" alt="IUT - Montagne - Vannes - France" ></a>
+          <a href="images/pic_11.jpg"><img id="misc11" src="images/pic_11.jpg" alt="Ramparts Centre ville - Vannes - France" ></a>
+          <a href="images/pic_12.jpg"><img id="misc12" src="images/pic_12.jpg" alt="Ramparts Centre ville - Vannes - France" ></a>
         </div>
       </section>
       <!-- End of Misc -->
