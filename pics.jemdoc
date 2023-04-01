@@ -32,30 +32,60 @@
         <a name="misc"></a>
         <h2>Misc</h2>
         <div class="container">
-			<a href="images/pic_1.jpg"><img id="misc1" src="images/pic_1.jpg" alt="Islamia University Bahawalpur" ></a>
-			<a href="images/pic_2.png"><img id="misc2" src="images/pic_2.jpg" alt="Islamia University Bahawalpur" ></a>
-			<a href="images/pic_3.png"><img id="misc3" src="images/pic_3.png" alt="University of South-Brittany, Bretagne - France" ></a>
-			<a href="images/pic_4.png"><img id="misc4" src="images/pic_4.png" alt="University of South-Brittany, Bretagne - France" ></a>
-			<a href="images/pic_5.jpg"><img id="misc5" src="images/pic_5.jpg" alt="Centre ville, Vannes - France" ></a>
-			<a href="images/pic_6.jpg"><img id="misc6" src="images/pic_6.jpg" alt="Centre ville, Vannes - France" ></a>
-			<a href="images/pic_7.jpg"><img id="misc7" src="images/pic_7.jpg" alt="Place Marie, Centre ville, Vannes - France" ></a>
-			<a href="images/pic_8.jpg"><img id="misc8" src="images/pic_8.jpg" alt="Place Marie, Centre ville, Vannes - France" ></a>
-			<a href="images/pic_9.jpg"><img id="misc9" src="images/pic_9.jpg" alt="IUT - Montagne - Vannes - France" ></a>
-			<a href="images/pic_10.jpg"><img id="misc10" src="images/pic_10.jpg" alt="IUT - Montagne - Vannes - France" ></a>
-			<a href="images/pic_11.jpg"><img id="misc11" src="images/pic_11.jpg" alt="Ramparts Centre ville - Vannes - France" ></a>
-			<a href="images/pic_12.jpg"><img id="misc12" src="images/pic_12.jpg" alt="Ramparts Centre ville - Vannes - France" ></a>
-			<a href="images/pic_13.jpg"><img id="misc13" src="images/pic_13.jpg" alt="Centre ville, Vannes - France" ></a>
-			<a href="images/pic_14.jpg"><img id="misc14" src="images/pic_14.jpg" alt="Centre ville, Vannes - France" ></a>
-			<a href="images/pic_15.jpg"><img id="misc15" src="images/pic_15.jpg" alt="Centre ville, Vannes - France" ></a>
-			<a href="images/pic_16.jpg"><img id="misc16" src="images/pic_16.jpg" alt="Centre ville, Vannes - France" ></a>
-			<a href="images/pic_17.jpg"><img id="misc17" src="images/pic_17.jpg" alt="Bonaparte - Paris - France" ></a>
-			<a href="images/pic_18.jpg"><img id="misc18" src="images/pic_18.jpg" alt="Bonaparte - Paris - France" ></a>
-			<a href="images/pic_19.jpg"><img id="misc19" src="images/pic_19.jpg" alt="Bonaparte - Paris - France" ></a>
-			<a href="images/pic_20.jpg"><img id="misc20" src="images/pic_20.jpg" alt="Bonaparte - Paris - France" ></a>
-			<a href="images/pic_21.jpg"><img id="misc21" src="images/pic_21.jpg" alt="Bonaparte - Paris - France" ></a>
-			<a href="images/pic_22.jpg"><img id="misc22" src="images/pic_22.jpg" alt="Carnac plage - Vannes - France" ></a>
-			<a href="images/pic_23.jpg"><img id="misc23" src="images/pic_23.jpg" alt="Ramparts - Centre ville, Vannes - France" ></a>
-			<a href="images/pic_24.jpg"><img id="misc24" src="images/pic_24.jpg" alt="Ramparts - Centre ville, Vannes - France" ></a>
+			<a href="images/pic_1.jpg"><img id="misc1" src="images/pic_1.jpg" alt="Islamia University Bahawalpur"></a>
+			<a href="images/pic_2.png"><img id="misc2" src="images/pic_2.jpg" alt="Islamia University Bahawalpur"></a>
+			<a href="images/pic_3.png"><img id="misc3" src="images/pic_3.png" alt="University of South-Brittany, Bretagne - France"></a>
+			<a href="images/pic_4.png"><img id="misc4" src="images/pic_4.png" alt="University of South-Brittany, Bretagne - France"></a>
+			<a href="images/pic_5.jpg"><img id="misc5" src="images/pic_5.jpg" alt="Centre ville, Vannes - France"></a>
+			<a href="images/pic_6.jpg"><img id="misc6" src="images/pic_6.jpg" alt="Centre ville, Vannes - France"></a>
+			<a href="images/pic_7.jpg"><img id="misc7" src="images/pic_7.jpg" alt="Place Marie, Centre ville, Vannes - France"></a>
+			<a href="images/pic_8.jpg"><img id="misc8" src="images/pic_8.jpg" alt="Place Marie, Centre ville, Vannes - France"></a>
+			<a href="images/pic_9.jpg"><img id="misc9" src="images/pic_9.jpg" alt="IUT - Montagne - Vannes - France"></a>
+			<a href="images/pic_10.jpg"><img id="misc10" src="images/pic_10.jpg" alt="IUT - Montagne - Vannes - France"></a>
+			<a href="images/pic_11.jpg"><img id="misc11" src="images/pic_11.jpg" alt="Ramparts Centre ville - Vannes - France"></a>
+			<a href="images/pic_12.jpg"><img id="misc12" src="images/pic_12.jpg" alt="Ramparts Centre ville - Vannes - France"></a>
+			<a href="images/pic_13.jpg"><img id="misc13" src="images/pic_13.jpg" alt="Centre ville, Vannes - France"></a>
+			<a href="images/pic_14.jpg"><img id="misc14" src="images/pic_14.jpg" alt="Centre ville, Vannes - France"></a>
+			<a href="images/pic_15.jpg"><img id="misc15" src="images/pic_15.jpg" alt="Centre ville, Vannes - France"></a>
+			<a href="images/pic_16.jpg"><img id="misc16" src="images/pic_16.jpg" alt="Centre ville, Vannes - France"></a>
+			<a href="images/pic_17.jpg"><img id="misc17" src="images/pic_17.jpg" alt="Bonaparte - Paris - France"></a>
+			<a href="images/pic_18.jpg"><img id="misc18" src="images/pic_18.jpg" alt="Bonaparte - Paris - France"></a>
+			<a href="images/pic_19.jpg"><img id="misc19" src="images/pic_19.jpg" alt="Bonaparte - Paris - France"></a>
+			<a href="images/pic_20.jpg"><img id="misc20" src="images/pic_20.jpg" alt="Bonaparte - Paris - France"></a>
+			<a href="images/pic_21.jpg"><img id="misc21" src="images/pic_21.jpg" alt="Bonaparte - Paris - France"></a>
+			<a href="images/pic_22.jpg"><img id="misc22" src="images/pic_22.jpg" alt="Carnac plage - Vannes - France"></a>
+			<a href="images/pic_23.jpg"><img id="misc23" src="images/pic_23.jpg" alt="Ramparts - Centre ville, Vannes - France"></a>
+			<a href="images/pic_24.jpg"><img id="misc24" src="images/pic_24.jpg" alt="Ramparts - Centre ville, Vannes - France"></a>
+			<a href="images/pic_25.jpg"><img id="misc25" src="images/pic_25.jpg" alt="Ramparts - Centre ville, Vannes - France"></a>
+			<a href="images/pic_26.jpg"><img id="misc26" src="images/pic_26.jpg" alt="Centre ville, Vannes - France"></a>
+			<a href="images/pic_27.jpg"><img id="misc27" src="images/pic_27.jpg" alt="Ramparts - Centre ville, Vannes - France"></a>
+			<a href="images/pic_28.jpg"><img id="misc28" src="images/pic_28.jpg" alt="Lab VALORIA - University of South-Brittany - Bretagne - France"></a>
+			<a href="images/pic_29.jpg"><img id="misc29" src="images/pic_29.jpg" alt="Lab VALORIA - University of South-Brittany - Bretagne - France"></a>
+			<a href="images/pic_30.jpg"><img id="misc30" src="images/pic_30.jpg" alt="Lab VALORIA - University of South-Brittany - Bretagne - France"></a>
+			<a href="images/pic_31.jpg"><img id="misc31" src="images/pic_31.jpg" alt="Lab VALORIA - University of South-Brittany - Bretagne - France"></a>
+			<a href="images/pic_32.jpg"><img id="misc32" src="images/pic_32.jpg" alt="Lab VALORIA - University of South-Brittany - Bretagne - France"></a>
+			<a href="images/pic_33.jpg"><img id="misc33" src="images/pic_33.jpg" alt="Lab VALORIA - University of South-Brittany - Bretagne - France"></a>
+			<a href="images/pic_34.jpg"><img id="misc34" src="images/pic_34.jpg" alt="Lab VALORIA - University of South-Brittany - Bretagne - France"></a>
+			<a href="images/pic_35.jpg"><img id="misc35" src="images/pic_35.jpg" alt="Lab VALORIA - University of South-Brittany - Bretagne - France"></a>
+			<a href="images/pic_36.jpg"><img id="misc36" src="images/pic_36.jpg" alt="Ramparts - Centre ville, Vannes - France"></a>
+			<a href="images/pic_37.jpg"><img id="misc37" src="images/pic_37.jpg" alt="Carnac plage - Vannes - France"></a>
+			<a href="images/pic_38.jpg"><img id="misc38" src="images/pic_38.jpg" alt="Carnac plage - Vannes - France"></a>
+			<a href="images/pic_39.jpg"><img id="misc39" src="images/pic_39.jpg" alt="Carnac plage - Vannes - France"></a>
+			<a href="images/pic_40.jpg"><img id="misc40" src="images/pic_40.jpg" alt="Carnac plage - Vannes - France"></a>
+			<a href="images/pic_41.jpg"><img id="misc41" src="images/pic_41.jpg" alt="Carnac plage - Vannes - France"></a>
+			<a href="images/pic_42.jpg"><img id="misc42" src="images/pic_42.jpg" alt="Carnac plage - Vannes - France"></a>
+			<a href="images/pic_43.jpg"><img id="misc43" src="images/pic_43.jpg" alt="Carnac plage - Vannes - France"></a>	
+			<a href="images/pic_44.jpg"><img id="misc44" src="images/pic_44.jpg" alt="Carnac plage - Vannes - France"></a>
+			<a href="images/pic_45.jpg"><img id="misc45" src="images/pic_45.jpg" alt="Carnac plage - Vannes - France"></a>
+			<a href="images/pic_46.jpg"><img id="misc46" src="images/pic_46.jpg" alt="Carnac plage - Vannes - France"></a>
+			<a href="images/pic_47.jpg"><img id="misc47" src="images/pic_47.jpg" alt="Carnac plage - Vannes - France"></a>
+			<a href="images/pic_48.jpg"><img id="misc48" src="images/pic_48.jpg" alt="Conleau port - plage piscine - Vannes - France"></a>
+			<a href="images/pic_49.jpg"><img id="misc49" src="images/pic_49.jpg" alt="Place Marie, Centre ville, Vannes - France"></a>
+			<a href="images/pic_50.jpg"><img id="misc50" src="images/pic_50.jpg" alt="Place Marie, Centre ville, Vannes - France"></a>
+			<a href="images/pic_51.jpg"><img id="misc51" src="images/pic_51.jpg" alt="Place Marie, Centre ville, Vannes - France"></a>
+			<a href="images/pic_52.jpg"><img id="misc52" src="images/pic_52.jpg" alt="Place Marie, Centre ville, Vannes - France"></a>
+			<a href="images/pic_53.jpg"><img id="misc53" src="images/pic_53.jpg" alt="Place Marie, Centre ville, Vannes - France"></a>
+			<a href="images/pic_54.jpg"><img id="misc54" src="images/pic_54.jpg" alt="Place Marie, Centre ville, Vannes - France"></a>			
 		</div>
       </section>
       <!-- End of Misc -->
@@ -117,19 +147,23 @@
 
 		const pics = ["misc1", "misc2", "misc3", "misc4", "misc5", "misc6", "misc7", "misc8", "misc9",
 					  "misc10", "misc11", "misc12", "misc13", "misc14", "misc15", "misc16", "misc17", "misc18",
-					  "misc19", "misc20", "misc21", "misc22", "misc23", "misc24" ];
+					  "misc19", "misc20", "misc21", "misc22", "misc23", "misc24", "misc25", "misc26", "misc27",
+					  "misc28", "misc29", "misc30", "misc31", "misc32", "misc33", "misc34", "misc35", "misc36",
+					  "misc37", "misc38", "misc39", "misc40", "misc41", "misc42", "misc43", "misc44", "misc45",
+					  "misc46", "misc47", "misc48", "misc49", "misc50", "misc51", "misc52", "misc53", "misc54"					  
+					  ];
 		
-		// Get the image and insert it inside the modal - use its "alt" text as a caption
+			// window.alert(pics.length);
+		 // Get the image and insert it inside the modal - use its "alt" text as a caption
 		for (let i = 0; i < pics.length; i++) {
+			//document.write(i);
 			var img = document.getElementById(pics[i]);
 			var modalImg = document.getElementById("img01");
 			var captionText = document.getElementById("caption");
 			img.onmousedown = function(){
 					modal.style.display = "block";
 					modalImg.src = this.src;
-					// window.alert(modalImg.src);
-					captionText.innerHTML = this.alt;
-					// window.alert(captionText.innerHTML);
+					captionText.innerHTML = this.alt;					
 				}
 		}  // end for
 	  
