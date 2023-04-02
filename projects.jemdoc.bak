@@ -3,81 +3,49 @@
 
 = Project Work
 
-~~~
-{Inter-prediction in Point Cloud Compression with Sparse Convolutional Networks}{}
-~~~
 
 ~~~
-{}{img_left}{./figures/Inter-prediction.png}{alt text}{510px}{}{}
-*Inter-prediction in Point Cloud Compression with Sparse Convolutional Networks* \n\n
-Internship work at [https://www.qualcomm.com/ Qualcomm].
-- Deep learning solution for inter-frame compression of high resolution point clouds.
-- Proposed I, B, and P-frame encoding framework.
+{Android Jetpack Compose and Kotlin Projects - Native Android Development }{}
+~~~
+~~~
+{}{img_left}{./figures/android_aprentice.png}{alt text}{350px}{460px}{}
+*Android Native Application Development.*\n 
 ~~~
 
 
 ~~~
-{Dynamic Point Cloud Interpolation.}{}
+{Advanced Android Application Architecture - Using Jetpack Compose}{}
 ~~~
 ~~~
-{}{img_left}{./figures/Interpolation.png}{alt text}{510px}{}{}
-*Dynamic Point Cloud Interpolation.* [./Docs/Akhtar.ICASSP.2022.pdf (pdf)]\n\n
-Internship work at [https://www.qualcomm.com/ Qualcomm].
-- Deep learning-based point cloud interpolation framework for photorealistic dynamic point clouds. 
-- Given two consecutive dynamic point cloud frames, the framework aims to generate intermediate frame(s) between them.
+{}{img_left}{./figures/adv_arch_android.png}{alt text}{350px}{460px}{}
+*Android Native Application Development.*\n 
 ~~~
 
 
 ~~~
-{Video-based Point Cloud Compression (V-PCC) Artifact Removal.}{}
+{Kotlin Development - Android}{}
 ~~~
 ~~~
-{}{img_left}{./figures/Artifact_removal.png}{alt text}{510px}{}{}
-*Video-based Point Cloud Compression (V-PCC) Artifact Removal.* [https://arxiv.org/abs/2107.14179 (pdf)]\n\n
-Summer Internship work at [https://www.tencent.com/ Tencent].
-- Video-based Point Cloud Compression (V-PCC) standards introduces quantization at lower bitrate resulting in artifacts in the reconstructed point cloud.
-- We propose a deep learning-based V-PCC artifact removal framework.
-- We exploit the prior knowledge of the direction of quantization noise in V-PCC to learn both the direction as well as level of quantization noise by limiting the degree of freedom of the learned noise.
+{}{img_left}{./figures/kotlin_apprn.png}{alt text}{350px}{460px}{}
+*Kotlin Development - Android Native Application Development.*\n 
 ~~~
 
 
 ~~~
-{Point Cloud Geometry Prediction Across Spatial Scale.}{}
+{Kotlin CoRoutines}{}
 ~~~
 ~~~
-{}{img_left}{./figures/Geometry_prediction.gif}{alt text}{510px}{}{}
-*Point Cloud Geometry Prediction Across Spatial Scale.* [./Docs/Geometry_prediction.pdf (pdf)] \n\n
-Summer Internship work at [https://www.tencent.com/ Tencent].
-- We propose a deep learning solution for point cloud geometry prediction scheme to upsample a lower Level-of-Detail (LoD) point cloud into a higher LoD point cloud. 
-- We employ an octree-type upsampling solution to predict geometry across spatial scale.
+{}{img_left}{./figures/kotlin_coroutines.png}{alt text}{350px}{460px}{}
+*Kotlin Programming using Coroutines - Android Native Application Development.*\n 
 ~~~
 
 
 ~~~
-{*2D Penoptic Segmentation on street level imagery (SLI) from [https://www.here.com/en HERE] True Drives.}{}
+{Saving Data Android}{}
 ~~~
 ~~~
-{}{img_left}{./figures/2dsegmentation.gif}{alt text}{500px}{340px}{}
-*2D Penoptic Segmentation on street level imagery (SLI) from [https://www.here.com/en HERE] True Drives.*\n\n
-Summer Internship at [https://www.here.com/en HERE Technologies].
-- 2D Building Facade Segmentation and Portal Detection.
-- 2D Building Tracking, Segmentation, and Instant Segmentation.
-~~~
-
-
-~~~
-{Point Cloud Denoising.}{}
-~~~
-~~~
-{}{img_left}{./figures/denoising.gif}{alt text}{500px}{440px}{}
-*Point Cloud Denoising.*\n\n
-Point clouds obtained from 3D scanners or by image-based reconstruction techniques are often corrupted with a significant amount of non-negligible noise. 
-- We propose a two-stage deep neural network that takes in 3D point cloud data and outputs a denoised point cloud.
-- 1st stage: Outlier removal.
-- 2nd stage: Denoising surface noise.
-- We achieve state-of-the-art point cloud denoising results.
-
-(Noisy point cloud on the left, Denoised point cloud on the right. [https://jpeg.org/plenodb/pc/8ilabs/ JPEG 8i dataset])
+{}{img_left}{./figures/saving_data_andr.png}{alt text}{476px}{616px}{}
+*Saving Data on Android - Data Storage using Android Native Application.*\n 
 ~~~
 
 
