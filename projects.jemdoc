@@ -8,13 +8,13 @@
 == Android Jetpack Compose Weather Forecasting Android Application - 18 April 2023
 
 ~~~
-{}{img_left}{./figures/WthApp_city.jpg}{alt text}{750px}{370px}{}
+{}{img_left}{./figures/WthApp_city.jpg}{alt text}{750px}{400px}{}
 *Real-time Weather ForeCasting*\n 
 *(April - 2023)* \n
 ~~~
 
 ~~~
-{}{img_left}{./figures/WthApp_About.jpg}{alt text}{250px}{370px}{}
+{}{img_left}{./figures/WthApp_About.jpg}{alt text}{250px}{400px}{}
 *A Comprehensive Weather ForeCasting Android Application using modern Jetpack Compose with Kotlin*\n 
 *(April - 2023)* \n
 - Weather API from openweathermap.org
@@ -26,7 +26,7 @@
 ~~~
 
 ~~~
-{}{img_left}{./figures/WthApp_Sett.jpg}{alt text}{500px}{370px}{}
+{}{img_left}{./figures/WthApp_Sett.jpg}{alt text}{500px}{400px}{}
 *A Settings Screen*\n 
 - Allows to follow two Units of Measurements 
 - Metric System OR Imperial System
@@ -37,6 +37,44 @@
 - These cities alongwith their country names are stored in the database
 - *ROOM library* is used for database integration 
 ~~~
+
+
+
+== Android Jetpack Compose Social Media Application - Reddit - March 2023
+
+~~~
+{}{img_left}{./figures/JetRed_home.jpg}{alt text}{250px}{400px}{}
+*A Comprehensive Social Media Application (Similer to Reddit*\n 
+*(March - 2023)* \n
+- Home Reddit Screen.
+- Multiple Sub-Reddit Screens 
+- *Chat Application* 
+- *Android ROOM* library to store complete data
+- *Android ROOM* library for MySQL database integration 
+- Complete high quality well documented code
+- Complete UML class diagrams
+~~~
+
+
+~~~
+{}{raw}
+
+<table>
+<tr>
+	<td> <img src="./figures/JetRed_home.jpg" alt="JetReddit Application" width="250" height="400"> </td>
+	<td> <img src="./figures/JetRed_home2.jpg" alt="JetReddit Application" width="250" height="400"> </td>
+	<td> <img src="./figures/JetRed_Scaffold.jpg" alt="JetReddit Application" width="250" height="400"> </td>
+</tr>
+<tr>
+	<td> <img src="./figures/JetRed_new.jpg" alt="JetReddit Application" width="250" height="400" > </td>
+	<td> <img src="./figures/JetRed_subreddits.jpg" alt="JetReddit Application" width="250" height="400"> </td>
+	<td> <img src="./figures/JetRed_chat.jpg" alt="JetReddit Application" width="250" height="400"> </td>
+</tr>
+</table>
+
+~~~
+
+
 
 
 
