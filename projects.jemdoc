@@ -4,49 +4,61 @@
 = Project Work
 
 
+
+== Android Jetpack Compose Weather Forecasting Android Application - 18 April 2023
+
 ~~~
-{Android Jetpack Compose and Kotlin Projects - Native Android Development }{}
+{}{img_left}{./figures/WthApp_city.jpg}{alt text}{750px}{370px}{}
+*Real-time Weather ForeCasting*\n 
+*(April - 2023)* \n
 ~~~
+
 ~~~
-{}{img_left}{./figures/android_aprentice.png}{alt text}{350px}{460px}{}
-*Android Native Application Development.*\n 
+{}{img_left}{./figures/WthApp_About.jpg}{alt text}{250px}{370px}{}
+*A Comprehensive Weather ForeCasting Android Application using modern Jetpack Compose with Kotlin*\n 
+*(April - 2023)* \n
+- Weather API from openweathermap.org
+- Integration of Weather API with the Application 
+- *Android Retrofit* to connect the API with the Application in order to parse JSON files.
+- *Android ROOM* library to store favourite cities data and settings configuration data in MySQL tables.
+- Complete high quality well documented code.
+- Complete UML class diagrams.
+~~~
+
+~~~
+{}{img_left}{./figures/WthApp_Sett.jpg}{alt text}{500px}{370px}{}
+*A Settings Screen*\n 
+- Allows to follow two Units of Measurements 
+- Metric System OR Imperial System
+- Metric System follows Degree Centigrade, on the other hand Imperial System follows Degree Fehrenheit 
+
+*A Favorite Screen*\n 
+- Allows to store the favorite cities 
+- These cities alongwith their country names are stored in the database
+- *ROOM library* is used for database integration 
+~~~
+
+
+
+== Android Jetpack Compose and Kotlin Projects - Native Android Development 
+
+~~~
+{}{img_left}{./figures/And_Books.png}{alt text}{750px}{370px}{}
+*Android Native Application Development.*\n\n 
+*Advanced Android Application Architecture - Using Jetpack Compose.*\n\n
+*Saving Data on Android - Data Storage using Android Native Application.*
 ~~~
 
 
 ~~~
-{Advanced Android Application Architecture - Using Jetpack Compose}{}
+{Kotlin Development - Kotlin CoRoutines - Android}{}
 ~~~
 ~~~
-{}{img_left}{./figures/adv_arch_android.png}{alt text}{350px}{460px}{}
-*Android Native Application Development.*\n 
-~~~
-
-
-~~~
-{Kotlin Development - Android}{}
-~~~
-~~~
-{}{img_left}{./figures/kotlin_apprn.png}{alt text}{350px}{460px}{}
+{}{img_left}{./figures/Kot_Books.png}{alt text}{500px}{370px}{}
 *Kotlin Development - Android Native Application Development.*\n 
-~~~
-
-
-~~~
-{Kotlin CoRoutines}{}
-~~~
-~~~
-{}{img_left}{./figures/kotlin_coroutines.png}{alt text}{350px}{460px}{}
 *Kotlin Programming using Coroutines - Android Native Application Development.*\n 
 ~~~
 
-
-~~~
-{Saving Data Android}{}
-~~~
-~~~
-{}{img_left}{./figures/saving_data_andr.png}{alt text}{350px}{460px}{}
-*Saving Data on Android - Data Storage using Android Native Application.*\n 
-~~~
 
 
 ~~~
